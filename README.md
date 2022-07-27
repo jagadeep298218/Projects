@@ -1,0 +1,3 @@
+# Simple Projects
+This repository contains all of my small term coding projects I've made over the years...
+These projects are not meant to be super interesting or cool but are just to showcase my experience in coding over the years..
